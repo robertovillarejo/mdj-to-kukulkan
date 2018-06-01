@@ -1,5 +1,5 @@
-var convert = require('./lib/index');
+var toKukulkanFile = require('./lib/index');
 
 module.exports = converter = {
-    toKukulkan: convert
+    toKukulkanFile: toKukulkanFile
 }
