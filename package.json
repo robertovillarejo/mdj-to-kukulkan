@@ -1,0 +1,16 @@
+{
+  "name": "mdjto3k",
+  "version": "1.0.0",
+  "description": "Converts a StarUML mdj to Kukulkan Grammar (a file with extension 3k or kukulkan)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kukulkan",
+    "mdj",
+    "3k"
+  ],
+  "author": "Roberto Villarejo Martínez",
+  "license": "MIT"
+}
